@@ -1,6 +1,6 @@
 ### React JS Developer
-👋, I am Parth React JS Devloper Based in India. Currently working with React & Redux.
+👋, I am Parth Frontend Devloper Based in India.
 
 Development Experience:
-- Frontend: JS, React, Redux, WP, CSS & Frameworks
-- Looking Forwrad to learn: Node.js, Express, TS
+- Frontend: Next, React, JS, TS, WP, CSS & Frameworks and Various utility libraries 
+- Looking Forwrad to learn: Node.js, Express
